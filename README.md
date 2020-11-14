@@ -1,2 +1,2 @@
 # dBotStuff
-creating discord bots
+creating discord bots, javaScript
